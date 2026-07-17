@@ -27,7 +27,7 @@ const t = {
     hoursNote: 'Cucina aperta fino a 30 min prima della chiusura',
 hours: [
   {
-    days: 'Lunedì – Martedì',
+    days: 'Lun – Mar',
     lunch: '11:00 – 15:00',
     dinner: '18:00 – 23:00',
   },
@@ -42,7 +42,7 @@ hours: [
     dinner: '—',
   },
   {
-    days: 'Venerdì – Domenica',
+    days: 'Ven – Dom',
     lunch: '11:00 – 15:00',
     dinner: '18:00 – 23:00',
   },
